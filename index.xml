@@ -1,46 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>SIHANG CHEN</title>
+    <link>https://sihangchen97.github.io/</link>
+      <atom:link href="https://sihangchen97.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>SIHANG CHEN</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
-      <link>https://example.com/</link>
+      <url>https://sihangchen97.github.io/media/icon_hue2cd89a902ac05e014cd1fa8aa0baef4_4666_512x512_fill_lanczos_center_3.png</url>
+      <title>SIHANG CHEN</title>
+      <link>https://sihangchen97.github.io/</link>
     </image>
     
     <item>
       <title>SIGGRAPH Asia 2023</title>
-      <link>https://example.com/talk/siggraph-asia-2023/</link>
+      <link>https://sihangchen97.github.io/talk/siggraph-asia-2023/</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/siggraph-asia-2023/</guid>
+      <guid>https://sihangchen97.github.io/talk/siggraph-asia-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WAIC 2023</title>
-      <link>https://example.com/talk/waic-2023/</link>
+      <link>https://sihangchen97.github.io/talk/waic-2023/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/waic-2023/</guid>
+      <guid>https://sihangchen97.github.io/talk/waic-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SenseTime TECH DAY</title>
-      <link>https://example.com/talk/sensetime-tech-day/</link>
+      <link>https://sihangchen97.github.io/talk/sensetime-tech-day/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/sensetime-tech-day/</guid>
+      <guid>https://sihangchen97.github.io/talk/sensetime-tech-day/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>AR - MaoXiaoJiu</title>
+      <link>https://sihangchen97.github.io/project/ar_mxj/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/ar_mxj/</guid>
+      <description>&lt;p&gt;Welcome to &lt;strong&gt;AR - MaoXiaoJiu&lt;/strong&gt;, an innovative mobile application that leverages Augmented Reality technology to provide you with a novel visual experience and interactivity fun. With &lt;strong&gt;AR - MaoXiaoJiu&lt;/strong&gt;, you can see our virtual characters - MaoXiaojiu - jump around and play in your Real-world environment like they&amp;rsquo;re right beside you.&lt;/p&gt;
+&lt;p&gt;This project attempts to merge the virtual with reality and enrich user experiences with Augmented Reality. It is also a test of the USD pipeline in Apple ARKit that all assets (characters and animations) used in this project are in USD format.&lt;/p&gt;
+&lt;p&gt;My contributions to this project are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Project coordination.&lt;/li&gt;
+&lt;li&gt;Full stack development.&lt;/li&gt;
+&lt;li&gt;Implement USD pipeline in ARKit, Maya, and Houdini.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LIVE - Fridge Party!</title>
+      <link>https://sihangchen97.github.io/project/live_fridge_party/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/live_fridge_party/</guid>
+      <description>&lt;p&gt;Welcome to our &lt;strong&gt;LIVE - Fridge Party!&lt;/strong&gt;, where we bring you a unique live experience unlike any other! Here, not only do you watch but also actively engage in the liveroom.&lt;/p&gt;
+&lt;p&gt;In our live room, you play a cute vegitable and join a great party hold in a refridgerator.&lt;/p&gt;
+&lt;p&gt;by texting in our live room or sending us gifts during the live procedure.&lt;/p&gt;
+&lt;p&gt;In essence, each person can has a virtual dancing. So come join us now and revel in this unparalleled gaming experience filled with surprises and joy!&lt;/p&gt;
+&lt;p&gt;My contributions to this project are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Assemble assets in Unreal Engine and develop game logic for interaction.&lt;/li&gt;
+&lt;li&gt;Develop &lt;code&gt;ElseLiveUnreal&lt;/code&gt; plugin for Unreal Engine to fetch live room behaviors via APIs, and interact with the audience accordingly.&lt;/li&gt;
+&lt;li&gt;Develop a real-time audio signal processing system to detect accented beats of music and make camera shakes for enhanced visual exprierence in Unreal Engine.&lt;/li&gt;
+&lt;li&gt;Deploy a forward proxy server between the company intranet and the public network.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://sihangchen97.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://sihangchen97.github.io/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -118,33 +153,33 @@
     
     <item>
       <title>SIGGRAPH 2020</title>
-      <link>https://example.com/talk/siggraph-2020/</link>
+      <link>https://sihangchen97.github.io/talk/siggraph-2020/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/siggraph-2020/</guid>
+      <guid>https://sihangchen97.github.io/talk/siggraph-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SIGGRAPH Asia 2019</title>
-      <link>https://example.com/talk/siggraph-asia-2019/</link>
+      <link>https://sihangchen97.github.io/talk/siggraph-asia-2019/</link>
       <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/siggraph-asia-2019/</guid>
+      <guid>https://sihangchen97.github.io/talk/siggraph-asia-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SIGGRAPH 2019</title>
-      <link>https://example.com/talk/siggraph-2019/</link>
+      <link>https://sihangchen97.github.io/talk/siggraph-2019/</link>
       <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/siggraph-2019/</guid>
+      <guid>https://sihangchen97.github.io/talk/siggraph-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://example.com/post/writing-technical-content/</link>
+      <link>https://sihangchen97.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/writing-technical-content/</guid>
+      <guid>https://sihangchen97.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -244,7 +279,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-876543291&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-286941357&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -254,7 +289,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-876543291&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-286941357&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -536,9 +571,9 @@ Crash --&gt; [*]
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
+      <link>https://sihangchen97.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
+      <guid>https://sihangchen97.github.io/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -550,9 +585,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://example.com/post/jupyter/</link>
+      <link>https://sihangchen97.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/jupyter/</guid>
+      <guid>https://sihangchen97.github.io/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -609,9 +644,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://sihangchen97.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://sihangchen97.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -734,25 +769,25 @@ $$&lt;/p&gt;
     
     <item>
       <title>SIGGRAPH Asia 2018</title>
-      <link>https://example.com/talk/siggraph-asia-2018/</link>
+      <link>https://sihangchen97.github.io/talk/siggraph-asia-2018/</link>
       <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/siggraph-asia-2018/</guid>
+      <guid>https://sihangchen97.github.io/talk/siggraph-asia-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
+      <link>https://sihangchen97.github.io/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
+      <guid>https://sihangchen97.github.io/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SenseMaltose</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://sihangchen97.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://sihangchen97.github.io/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -763,9 +798,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
+      <link>https://sihangchen97.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
+      <guid>https://sihangchen97.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -782,9 +817,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
+      <link>https://sihangchen97.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
+      <guid>https://sihangchen97.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -801,9 +836,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://sihangchen97.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://sihangchen97.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

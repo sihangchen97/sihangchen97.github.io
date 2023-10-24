@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audio Signal Processing | SIHANG CHEN</title>
+    <link>https://sihangchen97.github.io/tag/audio-signal-processing/</link>
+      <atom:link href="https://sihangchen97.github.io/tag/audio-signal-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Audio Signal Processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sihangchen97.github.io/media/icon_hue2cd89a902ac05e014cd1fa8aa0baef4_4666_512x512_fill_lanczos_center_3.png</url>
+      <title>Audio Signal Processing</title>
+      <link>https://sihangchen97.github.io/tag/audio-signal-processing/</link>
+    </image>
+    
+    <item>
+      <title>LIVE - Fridge Party!</title>
+      <link>https://sihangchen97.github.io/project/live_fridge_party/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/live_fridge_party/</guid>
+      <description>&lt;p&gt;Welcome to our &lt;strong&gt;LIVE - Fridge Party!&lt;/strong&gt;, where we bring you a unique live experience unlike any other! Here, not only do you watch but also actively engage in the liveroom.&lt;/p&gt;
+&lt;p&gt;In our live room, you play a cute vegitable and join a great party hold in a refridgerator.&lt;/p&gt;
+&lt;p&gt;by texting in our live room or sending us gifts during the live procedure.&lt;/p&gt;
+&lt;p&gt;In essence, each person can has a virtual dancing. So come join us now and revel in this unparalleled gaming experience filled with surprises and joy!&lt;/p&gt;
+&lt;p&gt;My contributions to this project are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Assemble assets in Unreal Engine and develop game logic for interaction.&lt;/li&gt;
+&lt;li&gt;Develop &lt;code&gt;ElseLiveUnreal&lt;/code&gt; plugin for Unreal Engine to fetch live room behaviors via APIs, and interact with the audience accordingly.&lt;/li&gt;
+&lt;li&gt;Develop a real-time audio signal processing system to detect accented beats of music and make camera shakes for enhanced visual exprierence in Unreal Engine.&lt;/li&gt;
+&lt;li&gt;Deploy a forward proxy server between the company intranet and the public network.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

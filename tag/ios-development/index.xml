@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IOS Development | SIHANG CHEN</title>
+    <link>https://sihangchen97.github.io/tag/ios-development/</link>
+      <atom:link href="https://sihangchen97.github.io/tag/ios-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>IOS Development</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sihangchen97.github.io/media/icon_hue2cd89a902ac05e014cd1fa8aa0baef4_4666_512x512_fill_lanczos_center_3.png</url>
+      <title>IOS Development</title>
+      <link>https://sihangchen97.github.io/tag/ios-development/</link>
+    </image>
+    
+    <item>
+      <title>AR - MaoXiaoJiu</title>
+      <link>https://sihangchen97.github.io/project/ar_mxj/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/ar_mxj/</guid>
+      <description>&lt;p&gt;Welcome to &lt;strong&gt;AR - MaoXiaoJiu&lt;/strong&gt;, an innovative mobile application that leverages Augmented Reality technology to provide you with a novel visual experience and interactivity fun. With &lt;strong&gt;AR - MaoXiaoJiu&lt;/strong&gt;, you can see our virtual characters - MaoXiaojiu - jump around and play in your Real-world environment like they&amp;rsquo;re right beside you.&lt;/p&gt;
+&lt;p&gt;This project attempts to merge the virtual with reality and enrich user experiences with Augmented Reality. It is also a test of the USD pipeline in Apple ARKit that all assets (characters and animations) used in this project are in USD format.&lt;/p&gt;
+&lt;p&gt;My contributions to this project are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Project coordination.&lt;/li&gt;
+&lt;li&gt;Full stack development.&lt;/li&gt;
+&lt;li&gt;Implement USD pipeline in ARKit, Maya, and Houdini.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
