@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events | Academic</title>
+    <link>https://example.com/event/</link>
+      <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Events</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Events</title>
+      <link>https://example.com/event/</link>
+    </image>
+    
+    <item>
+      <title>SIGGRAPH Asia 2023</title>
+      <link>https://example.com/talk/siggraph-asia-2023/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/siggraph-asia-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WAIC 2023</title>
+      <link>https://example.com/talk/waic-2023/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/waic-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SenseTime TECH DAY</title>
+      <link>https://example.com/talk/sensetime-tech-day/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/sensetime-tech-day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGGRAPH 2020</title>
+      <link>https://example.com/talk/siggraph-2020/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/siggraph-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGGRAPH Asia 2019</title>
+      <link>https://example.com/talk/siggraph-asia-2019/</link>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/siggraph-asia-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGGRAPH 2019</title>
+      <link>https://example.com/talk/siggraph-2019/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/siggraph-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGGRAPH Asia 2018</title>
+      <link>https://example.com/talk/siggraph-asia-2018/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/siggraph-asia-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
