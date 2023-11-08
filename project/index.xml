@@ -5,7 +5,7 @@
     <link>https://sihangchen97.github.io/project/</link>
       <atom:link href="https://sihangchen97.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sihangchen97.github.io/media/icon_hue2cd89a902ac05e014cd1fa8aa0baef4_4666_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,17 +13,95 @@
     </image>
     
     <item>
-      <title>AR - MaoXiaoJiu</title>
-      <link>https://sihangchen97.github.io/project/ar_mxj/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://sihangchen97.github.io/project/ar_mxj/</guid>
-      <description>&lt;p&gt;Welcome to &lt;strong&gt;AR - MaoXiaoJiu&lt;/strong&gt;, an innovative mobile application that leverages Augmented Reality technology to provide you with a novel visual experience and interactivity fun. With &lt;strong&gt;AR - MaoXiaoJiu&lt;/strong&gt;, you can see our virtual characters - MaoXiaojiu - jump around and play in your Real-world environment like they&amp;rsquo;re right beside you.&lt;/p&gt;
-&lt;p&gt;This project attempts to merge the virtual with reality and enrich user experiences with Augmented Reality. It is also a test of the USD pipeline in Apple ARKit that all assets (characters and animations) used in this project are in USD format.&lt;/p&gt;
-&lt;p&gt;My contributions to this project are:&lt;/p&gt;
+      <title>A2F Importer</title>
+      <link>https://sihangchen97.github.io/project/a2f_importer/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/a2f_importer/</guid>
+      <description>&lt;p&gt;Introducing &lt;strong&gt;A2F Importer&lt;/strong&gt;, a solution to streamline your workflow and enhance your creative capabilities within Autodesk Maya. Integrated with the latest Audio2Face technology at SenseTime, this powerful plugin can generate and import excellent facial animation driven by audio. With the feedback of experienced animators, this plugin provides advanced features that cater to artists at every level - from beginners to experts.&lt;/p&gt;
+&lt;div style=&#34;padding:56.25% 0 0 0;position:relative;&#34;&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/881127413?badge=0&amp;amp;autopause=0&amp;amp;quality_selector=1&amp;amp;player_id=0&amp;amp;app_id=58479&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen; picture-in-picture&#34; style=&#34;position:absolute;top:0;left:0;width:100%;height:100%;&#34; title=&#34;A2F_Importer Tutorial&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://player.vimeo.com/api/player.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;With &lt;strong&gt;A2F Importer&lt;/strong&gt;, you can expect seamless integration into your existing pipeline to drive facial performance, saving precious time on repetitive tasks while enabling you to focus on what matters most – creating emotional performance. Whether it’s facial data provided by our Audio2Face technology, facial capture data, or generated data from different methods, our plugin offers a universal availability to meet your needs.&lt;/p&gt;
+&lt;p&gt;Our user-friendly interface ensures ease of use, allowing users to learn and adapt to its functionalities quickly. Plus, &lt;strong&gt;A2F Importer&lt;/strong&gt; is compatibe with both the 2018+ (Python 2.x) and 2022+ (Python 3.x) versions of Maya.&lt;/p&gt;
+&lt;p&gt;Facilitate your experience with facial animation in Maya today!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Project coordination.&lt;/li&gt;
-&lt;li&gt;Full stack development.&lt;/li&gt;
-&lt;li&gt;Implement USD pipeline in ARKit, Maya, and Houdini.&lt;/li&gt;
+&lt;li&gt;Plugin development and testing.&lt;/li&gt;
+&lt;li&gt;Tutorial and demo.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SenseMaltose</title>
+      <link>https://sihangchen97.github.io/project/sensemaltose/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/sensemaltose/</guid>
+      <description>&lt;p&gt;In the field of live streaming, product sales are flourishing nowadays. Many top live hosts and celebrities have joined in this prosperous industry. At the same time, a new model of virtual avatar-led product sales has emerged that can guarantee effective promotion even during off-peak periods. However, existing virtual selling avatars mostly appear mechanical and clumsy. There is a lack of high-quality virtual avatars in the market.&lt;/p&gt;
+&lt;p&gt;We develop &lt;strong&gt;SenseMaltose&lt;/strong&gt;, an AIGC-Avatar system for live-streaming product promotion. The system supports continuous hours of live streaming and can promote products in various categories with unrepeated sentences. The avatar could also have different but characteristic styles of voice and language habits. Also, this system can allow fully autonomous interaction between the host avatar and the audience in the live rooms.&lt;/p&gt;
+&lt;p&gt;The core features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Body motion is driven automatically without human intervention or actions but matches the context.&lt;/li&gt;
+&lt;li&gt;Facial expressions are driven by voice simultaneously, matching corresponding expression expectations.&lt;/li&gt;
+&lt;li&gt;The ability to interact with the audience (comments in liveroom). The context should be logical and meet the avatar&amp;rsquo;s personality and background.&lt;/li&gt;
+&lt;li&gt;All these functionalities operate automatically. The system is able to finish the whole round of live shows without users&amp;rsquo; intervention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build up the first-generation pipeline to validate its feasibility.&lt;/li&gt;
+&lt;li&gt;Unreal Engine development in :
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Animation Graph&lt;/strong&gt;&lt;/em&gt;: for motion, facial motion, and audio integrated AIGC-Avatar pipeline.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Websocket Servers&lt;/strong&gt;&lt;/em&gt;: for transferring data and control settings between Unreal Engine end and Back end.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Avatar Related&lt;/strong&gt;&lt;/em&gt;: to improve avatar performance, including auto eye blink, auto eye focus, simple bone solver, and character-dependent facial data calibration.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Composite Layers&lt;/strong&gt;&lt;/em&gt;: a light-weight implementation of composite layer manager that can stack picture and video sources in Unreal Engine viewports, providing smoothly transitions and accurate color management.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Omniverse A2F LiveLink</title>
+      <link>https://sihangchen97.github.io/project/ov_a2f_livelink/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/ov_a2f_livelink/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Omniverse A2F LiveLink&lt;/strong&gt; is an Omniverse plugin that can help you quickly build up a real-time Audio2Face pipeline in Unreal Engine, embedding Omniverse Audio2Face.&lt;/p&gt;
+&lt;p&gt;This plugin provides a “Send Blendshape Value” node in Omniverse Audio2Face and sends generated facial animation data to  Unreal Engine via LiveLink protocol, which is widely used for facial capture data transfer to Unreal Engine.&lt;/p&gt;
+&lt;p&gt;With the help of &lt;strong&gt;Omniverse A2F LiveLink&lt;/strong&gt;, it would be easy to drive your characters to speak, powered by the latest Omniverse Audio2Face Technology.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plugin development and testing.&lt;/li&gt;
+&lt;li&gt;USD asset preparation (for Omniverse).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Who Drank My Milk Tea! - MaoXiaoJiu</title>
+      <link>https://sihangchen97.github.io/project/clip_mxj/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/clip_mxj/</guid>
+      <description>&lt;div style=&#34;padding:56.25% 0 0 0;position:relative;&#34;&gt;&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=384479061&amp;bvid=BV1vZ4y1b7Cw&amp;cid=731215192&amp;p=1&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen; picture-in-picture&#34; style=&#34;position:absolute;top:0;left:0;width:100%;height:100%;&#34; title=&#34;A2F_Importer Tutorial&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Previz in pre-production.&lt;/li&gt;
+&lt;li&gt;On-set lighting and technical directing.&lt;/li&gt;
+&lt;li&gt;Camera matching in Maya.&lt;/li&gt;
+&lt;li&gt;&amp;hellip; Hand performing.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MMD4Maya</title>
+      <link>https://sihangchen97.github.io/project/mmd4maya/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/mmd4maya/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;MMD4Maya&lt;/strong&gt; is a Maya plugin which use for importing pmx/pmd model to Maya. It is originally forked from &lt;a href=&#34;https://github.com/gameboy12615/MMD4Maya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gameboy12615&lt;/a&gt;, and is based on &lt;code&gt;pmx2fbx.exe&lt;/code&gt; wrote by &lt;a href=&#34;http://stereoarts.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stereoarts&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This plugin has been applied in the producation of dancing videos in &lt;a href=&#34;https://www.bilibili.com/video/BV1pd4y1R7AK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SiTuXiaoTao Series&lt;/a&gt; and &lt;a href=&#34;https://www.bilibili.com/video/BV1ys4y1B76v&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BaiMianMian Series&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bug-fix and add support for Japanese or Chinese support.&lt;/li&gt;
+&lt;li&gt;Develop a universal version for Maya 2018+ (Python 2.x) and Maya 2022+ (Python 3.x)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -37,7 +115,7 @@
 &lt;p&gt;In our live room, you play a cute vegitable and join a great party hold in a refridgerator.&lt;/p&gt;
 &lt;p&gt;by texting in our live room or sending us gifts during the live procedure.&lt;/p&gt;
 &lt;p&gt;In essence, each person can has a virtual dancing. So come join us now and revel in this unparalleled gaming experience filled with surprises and joy!&lt;/p&gt;
-&lt;p&gt;My contributions to this project are:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Assemble assets in Unreal Engine and develop game logic for interaction.&lt;/li&gt;
 &lt;li&gt;Develop &lt;code&gt;ElseLiveUnreal&lt;/code&gt; plugin for Unreal Engine to fetch live room behaviors via APIs, and interact with the audience accordingly.&lt;/li&gt;
@@ -48,23 +126,23 @@
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://sihangchen97.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://sihangchen97.github.io/project/external-project/</guid>
-      <description></description>
+      <title>STMobileUnreal</title>
+      <link>https://sihangchen97.github.io/project/stmobileunreal/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/stmobileunreal/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;STMobileUnreal&lt;/strong&gt; is a powerful plugin for developers working with Unreal Engine. This plugin enables users to call upon the capabilities of Sensetime STMobile library within Unreal Engine, allowing them to capture facial expressions and use these as drivers for character face animations. The STMobile library itself is designed specifically for digital avatars applications, providing efficient detection of faces and capturing their corresponding facial expression animations.&lt;/p&gt;
+&lt;p&gt;When used with &lt;strong&gt;FFmpegWebcamUnreal&lt;/strong&gt;, this plugin can unlock a real-time webcam-based facial tracking solution directly within Unreal Engine. In other words, it allows you to seamlessly integrate live video feed from your webcam into your game or application, enabling advanced features such as avatar customization based on user’s own facial expressions.&lt;/p&gt;
+&lt;p&gt;In summary, if you are looking to incorporate robust facial capture technology into your Unreal Engine projects, then look no further than &lt;strong&gt;STMobileUnreal&lt;/strong&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>SenseMaltose</title>
-      <link>https://sihangchen97.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://sihangchen97.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>FFmpegWebcamUnreal</title>
+      <link>https://sihangchen97.github.io/project/ffmpegwebcamunreal/</link>
+      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/ffmpegwebcamunreal/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;FFmpegWebcamUnreal&lt;/strong&gt; is a Webcam Plugin based on FFmpeg for Unreal Engine.&lt;/p&gt;
+&lt;p&gt;This plugin could serve as fundamental component to support further development related to webcam, such as &lt;a href=&#34;../stmobileunreal&#34;&gt;STMobileUnreal&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,12 +5,57 @@
     <link>https://sihangchen97.github.io/tag/unreal-engine/</link>
       <atom:link href="https://sihangchen97.github.io/tag/unreal-engine/index.xml" rel="self" type="application/rss+xml" />
     <description>Unreal Engine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sihangchen97.github.io/media/icon_hue2cd89a902ac05e014cd1fa8aa0baef4_4666_512x512_fill_lanczos_center_3.png</url>
       <title>Unreal Engine</title>
       <link>https://sihangchen97.github.io/tag/unreal-engine/</link>
     </image>
+    
+    <item>
+      <title>SenseMaltose</title>
+      <link>https://sihangchen97.github.io/project/sensemaltose/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/sensemaltose/</guid>
+      <description>&lt;p&gt;In the field of live streaming, product sales are flourishing nowadays. Many top live hosts and celebrities have joined in this prosperous industry. At the same time, a new model of virtual avatar-led product sales has emerged that can guarantee effective promotion even during off-peak periods. However, existing virtual selling avatars mostly appear mechanical and clumsy. There is a lack of high-quality virtual avatars in the market.&lt;/p&gt;
+&lt;p&gt;We develop &lt;strong&gt;SenseMaltose&lt;/strong&gt;, an AIGC-Avatar system for live-streaming product promotion. The system supports continuous hours of live streaming and can promote products in various categories with unrepeated sentences. The avatar could also have different but characteristic styles of voice and language habits. Also, this system can allow fully autonomous interaction between the host avatar and the audience in the live rooms.&lt;/p&gt;
+&lt;p&gt;The core features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Body motion is driven automatically without human intervention or actions but matches the context.&lt;/li&gt;
+&lt;li&gt;Facial expressions are driven by voice simultaneously, matching corresponding expression expectations.&lt;/li&gt;
+&lt;li&gt;The ability to interact with the audience (comments in liveroom). The context should be logical and meet the avatar&amp;rsquo;s personality and background.&lt;/li&gt;
+&lt;li&gt;All these functionalities operate automatically. The system is able to finish the whole round of live shows without users&amp;rsquo; intervention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build up the first-generation pipeline to validate its feasibility.&lt;/li&gt;
+&lt;li&gt;Unreal Engine development in :
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Animation Graph&lt;/strong&gt;&lt;/em&gt;: for motion, facial motion, and audio integrated AIGC-Avatar pipeline.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Websocket Servers&lt;/strong&gt;&lt;/em&gt;: for transferring data and control settings between Unreal Engine end and Back end.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Avatar Related&lt;/strong&gt;&lt;/em&gt;: to improve avatar performance, including auto eye blink, auto eye focus, simple bone solver, and character-dependent facial data calibration.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Composite Layers&lt;/strong&gt;&lt;/em&gt;: a light-weight implementation of composite layer manager that can stack picture and video sources in Unreal Engine viewports, providing smoothly transitions and accurate color management.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Omniverse A2F LiveLink</title>
+      <link>https://sihangchen97.github.io/project/ov_a2f_livelink/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/ov_a2f_livelink/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Omniverse A2F LiveLink&lt;/strong&gt; is an Omniverse plugin that can help you quickly build up a real-time Audio2Face pipeline in Unreal Engine, embedding Omniverse Audio2Face.&lt;/p&gt;
+&lt;p&gt;This plugin provides a “Send Blendshape Value” node in Omniverse Audio2Face and sends generated facial animation data to  Unreal Engine via LiveLink protocol, which is widely used for facial capture data transfer to Unreal Engine.&lt;/p&gt;
+&lt;p&gt;With the help of &lt;strong&gt;Omniverse A2F LiveLink&lt;/strong&gt;, it would be easy to drive your characters to speak, powered by the latest Omniverse Audio2Face Technology.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plugin development and testing.&lt;/li&gt;
+&lt;li&gt;USD asset preparation (for Omniverse).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>LIVE - Fridge Party!</title>
@@ -21,13 +66,34 @@
 &lt;p&gt;In our live room, you play a cute vegitable and join a great party hold in a refridgerator.&lt;/p&gt;
 &lt;p&gt;by texting in our live room or sending us gifts during the live procedure.&lt;/p&gt;
 &lt;p&gt;In essence, each person can has a virtual dancing. So come join us now and revel in this unparalleled gaming experience filled with surprises and joy!&lt;/p&gt;
-&lt;p&gt;My contributions to this project are:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Assemble assets in Unreal Engine and develop game logic for interaction.&lt;/li&gt;
 &lt;li&gt;Develop &lt;code&gt;ElseLiveUnreal&lt;/code&gt; plugin for Unreal Engine to fetch live room behaviors via APIs, and interact with the audience accordingly.&lt;/li&gt;
 &lt;li&gt;Develop a real-time audio signal processing system to detect accented beats of music and make camera shakes for enhanced visual exprierence in Unreal Engine.&lt;/li&gt;
 &lt;li&gt;Deploy a forward proxy server between the company intranet and the public network.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STMobileUnreal</title>
+      <link>https://sihangchen97.github.io/project/stmobileunreal/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/stmobileunreal/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;STMobileUnreal&lt;/strong&gt; is a powerful plugin for developers working with Unreal Engine. This plugin enables users to call upon the capabilities of Sensetime STMobile library within Unreal Engine, allowing them to capture facial expressions and use these as drivers for character face animations. The STMobile library itself is designed specifically for digital avatars applications, providing efficient detection of faces and capturing their corresponding facial expression animations.&lt;/p&gt;
+&lt;p&gt;When used with &lt;strong&gt;FFmpegWebcamUnreal&lt;/strong&gt;, this plugin can unlock a real-time webcam-based facial tracking solution directly within Unreal Engine. In other words, it allows you to seamlessly integrate live video feed from your webcam into your game or application, enabling advanced features such as avatar customization based on user’s own facial expressions.&lt;/p&gt;
+&lt;p&gt;In summary, if you are looking to incorporate robust facial capture technology into your Unreal Engine projects, then look no further than &lt;strong&gt;STMobileUnreal&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FFmpegWebcamUnreal</title>
+      <link>https://sihangchen97.github.io/project/ffmpegwebcamunreal/</link>
+      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/ffmpegwebcamunreal/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;FFmpegWebcamUnreal&lt;/strong&gt; is a Webcam Plugin based on FFmpeg for Unreal Engine.&lt;/p&gt;
+&lt;p&gt;This plugin could serve as fundamental component to support further development related to webcam, such as &lt;a href=&#34;../stmobileunreal&#34;&gt;STMobileUnreal&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

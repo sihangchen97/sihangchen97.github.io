@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maya | SIHANG CHEN</title>
+    <link>https://sihangchen97.github.io/tag/maya/</link>
+      <atom:link href="https://sihangchen97.github.io/tag/maya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maya</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sihangchen97.github.io/media/icon_hue2cd89a902ac05e014cd1fa8aa0baef4_4666_512x512_fill_lanczos_center_3.png</url>
+      <title>Maya</title>
+      <link>https://sihangchen97.github.io/tag/maya/</link>
+    </image>
+    
+    <item>
+      <title>A2F Importer</title>
+      <link>https://sihangchen97.github.io/project/a2f_importer/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/a2f_importer/</guid>
+      <description>&lt;p&gt;Introducing &lt;strong&gt;A2F Importer&lt;/strong&gt;, a solution to streamline your workflow and enhance your creative capabilities within Autodesk Maya. Integrated with the latest Audio2Face technology at SenseTime, this powerful plugin can generate and import excellent facial animation driven by audio. With the feedback of experienced animators, this plugin provides advanced features that cater to artists at every level - from beginners to experts.&lt;/p&gt;
+&lt;div style=&#34;padding:56.25% 0 0 0;position:relative;&#34;&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/881127413?badge=0&amp;amp;autopause=0&amp;amp;quality_selector=1&amp;amp;player_id=0&amp;amp;app_id=58479&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen; picture-in-picture&#34; style=&#34;position:absolute;top:0;left:0;width:100%;height:100%;&#34; title=&#34;A2F_Importer Tutorial&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://player.vimeo.com/api/player.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;With &lt;strong&gt;A2F Importer&lt;/strong&gt;, you can expect seamless integration into your existing pipeline to drive facial performance, saving precious time on repetitive tasks while enabling you to focus on what matters most – creating emotional performance. Whether it’s facial data provided by our Audio2Face technology, facial capture data, or generated data from different methods, our plugin offers a universal availability to meet your needs.&lt;/p&gt;
+&lt;p&gt;Our user-friendly interface ensures ease of use, allowing users to learn and adapt to its functionalities quickly. Plus, &lt;strong&gt;A2F Importer&lt;/strong&gt; is compatibe with both the 2018+ (Python 2.x) and 2022+ (Python 3.x) versions of Maya.&lt;/p&gt;
+&lt;p&gt;Facilitate your experience with facial animation in Maya today!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plugin development and testing.&lt;/li&gt;
+&lt;li&gt;Tutorial and demo.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Who Drank My Milk Tea! - MaoXiaoJiu</title>
+      <link>https://sihangchen97.github.io/project/clip_mxj/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/clip_mxj/</guid>
+      <description>&lt;div style=&#34;padding:56.25% 0 0 0;position:relative;&#34;&gt;&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=384479061&amp;bvid=BV1vZ4y1b7Cw&amp;cid=731215192&amp;p=1&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen; picture-in-picture&#34; style=&#34;position:absolute;top:0;left:0;width:100%;height:100%;&#34; title=&#34;A2F_Importer Tutorial&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Previz in pre-production.&lt;/li&gt;
+&lt;li&gt;On-set lighting and technical directing.&lt;/li&gt;
+&lt;li&gt;Camera matching in Maya.&lt;/li&gt;
+&lt;li&gt;&amp;hellip; Hand performing.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MMD4Maya</title>
+      <link>https://sihangchen97.github.io/project/mmd4maya/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/mmd4maya/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;MMD4Maya&lt;/strong&gt; is a Maya plugin which use for importing pmx/pmd model to Maya. It is originally forked from &lt;a href=&#34;https://github.com/gameboy12615/MMD4Maya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gameboy12615&lt;/a&gt;, and is based on &lt;code&gt;pmx2fbx.exe&lt;/code&gt; wrote by &lt;a href=&#34;http://stereoarts.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stereoarts&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This plugin has been applied in the producation of dancing videos in &lt;a href=&#34;https://www.bilibili.com/video/BV1pd4y1R7AK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SiTuXiaoTao Series&lt;/a&gt; and &lt;a href=&#34;https://www.bilibili.com/video/BV1ys4y1B76v&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BaiMianMian Series&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bug-fix and add support for Japanese or Chinese support.&lt;/li&gt;
+&lt;li&gt;Develop a universal version for Maya 2018+ (Python 2.x) and Maya 2022+ (Python 3.x)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

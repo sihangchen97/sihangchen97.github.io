@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIGC | SIHANG CHEN</title>
+    <link>https://sihangchen97.github.io/tag/aigc/</link>
+      <atom:link href="https://sihangchen97.github.io/tag/aigc/index.xml" rel="self" type="application/rss+xml" />
+    <description>AIGC</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sihangchen97.github.io/media/icon_hue2cd89a902ac05e014cd1fa8aa0baef4_4666_512x512_fill_lanczos_center_3.png</url>
+      <title>AIGC</title>
+      <link>https://sihangchen97.github.io/tag/aigc/</link>
+    </image>
+    
+    <item>
+      <title>A2F Importer</title>
+      <link>https://sihangchen97.github.io/project/a2f_importer/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/a2f_importer/</guid>
+      <description>&lt;p&gt;Introducing &lt;strong&gt;A2F Importer&lt;/strong&gt;, a solution to streamline your workflow and enhance your creative capabilities within Autodesk Maya. Integrated with the latest Audio2Face technology at SenseTime, this powerful plugin can generate and import excellent facial animation driven by audio. With the feedback of experienced animators, this plugin provides advanced features that cater to artists at every level - from beginners to experts.&lt;/p&gt;
+&lt;div style=&#34;padding:56.25% 0 0 0;position:relative;&#34;&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/881127413?badge=0&amp;amp;autopause=0&amp;amp;quality_selector=1&amp;amp;player_id=0&amp;amp;app_id=58479&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen; picture-in-picture&#34; style=&#34;position:absolute;top:0;left:0;width:100%;height:100%;&#34; title=&#34;A2F_Importer Tutorial&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://player.vimeo.com/api/player.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;With &lt;strong&gt;A2F Importer&lt;/strong&gt;, you can expect seamless integration into your existing pipeline to drive facial performance, saving precious time on repetitive tasks while enabling you to focus on what matters most – creating emotional performance. Whether it’s facial data provided by our Audio2Face technology, facial capture data, or generated data from different methods, our plugin offers a universal availability to meet your needs.&lt;/p&gt;
+&lt;p&gt;Our user-friendly interface ensures ease of use, allowing users to learn and adapt to its functionalities quickly. Plus, &lt;strong&gt;A2F Importer&lt;/strong&gt; is compatibe with both the 2018+ (Python 2.x) and 2022+ (Python 3.x) versions of Maya.&lt;/p&gt;
+&lt;p&gt;Facilitate your experience with facial animation in Maya today!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plugin development and testing.&lt;/li&gt;
+&lt;li&gt;Tutorial and demo.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SenseMaltose</title>
+      <link>https://sihangchen97.github.io/project/sensemaltose/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/sensemaltose/</guid>
+      <description>&lt;p&gt;In the field of live streaming, product sales are flourishing nowadays. Many top live hosts and celebrities have joined in this prosperous industry. At the same time, a new model of virtual avatar-led product sales has emerged that can guarantee effective promotion even during off-peak periods. However, existing virtual selling avatars mostly appear mechanical and clumsy. There is a lack of high-quality virtual avatars in the market.&lt;/p&gt;
+&lt;p&gt;We develop &lt;strong&gt;SenseMaltose&lt;/strong&gt;, an AIGC-Avatar system for live-streaming product promotion. The system supports continuous hours of live streaming and can promote products in various categories with unrepeated sentences. The avatar could also have different but characteristic styles of voice and language habits. Also, this system can allow fully autonomous interaction between the host avatar and the audience in the live rooms.&lt;/p&gt;
+&lt;p&gt;The core features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Body motion is driven automatically without human intervention or actions but matches the context.&lt;/li&gt;
+&lt;li&gt;Facial expressions are driven by voice simultaneously, matching corresponding expression expectations.&lt;/li&gt;
+&lt;li&gt;The ability to interact with the audience (comments in liveroom). The context should be logical and meet the avatar&amp;rsquo;s personality and background.&lt;/li&gt;
+&lt;li&gt;All these functionalities operate automatically. The system is able to finish the whole round of live shows without users&amp;rsquo; intervention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build up the first-generation pipeline to validate its feasibility.&lt;/li&gt;
+&lt;li&gt;Unreal Engine development in :
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Animation Graph&lt;/strong&gt;&lt;/em&gt;: for motion, facial motion, and audio integrated AIGC-Avatar pipeline.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Websocket Servers&lt;/strong&gt;&lt;/em&gt;: for transferring data and control settings between Unreal Engine end and Back end.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Avatar Related&lt;/strong&gt;&lt;/em&gt;: to improve avatar performance, including auto eye blink, auto eye focus, simple bone solver, and character-dependent facial data calibration.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Composite Layers&lt;/strong&gt;&lt;/em&gt;: a light-weight implementation of composite layer manager that can stack picture and video sources in Unreal Engine viewports, providing smoothly transitions and accurate color management.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Omniverse A2F LiveLink</title>
+      <link>https://sihangchen97.github.io/project/ov_a2f_livelink/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/ov_a2f_livelink/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Omniverse A2F LiveLink&lt;/strong&gt; is an Omniverse plugin that can help you quickly build up a real-time Audio2Face pipeline in Unreal Engine, embedding Omniverse Audio2Face.&lt;/p&gt;
+&lt;p&gt;This plugin provides a “Send Blendshape Value” node in Omniverse Audio2Face and sends generated facial animation data to  Unreal Engine via LiveLink protocol, which is widely used for facial capture data transfer to Unreal Engine.&lt;/p&gt;
+&lt;p&gt;With the help of &lt;strong&gt;Omniverse A2F LiveLink&lt;/strong&gt;, it would be easy to drive your characters to speak, powered by the latest Omniverse Audio2Face Technology.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plugin development and testing.&lt;/li&gt;
+&lt;li&gt;USD asset preparation (for Omniverse).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motion | SIHANG CHEN</title>
+    <link>https://sihangchen97.github.io/tag/motion/</link>
+      <atom:link href="https://sihangchen97.github.io/tag/motion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Motion</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sihangchen97.github.io/media/icon_hue2cd89a902ac05e014cd1fa8aa0baef4_4666_512x512_fill_lanczos_center_3.png</url>
+      <title>Motion</title>
+      <link>https://sihangchen97.github.io/tag/motion/</link>
+    </image>
+    
+    <item>
+      <title>MMD4Maya</title>
+      <link>https://sihangchen97.github.io/project/mmd4maya/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/mmd4maya/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;MMD4Maya&lt;/strong&gt; is a Maya plugin which use for importing pmx/pmd model to Maya. It is originally forked from &lt;a href=&#34;https://github.com/gameboy12615/MMD4Maya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gameboy12615&lt;/a&gt;, and is based on &lt;code&gt;pmx2fbx.exe&lt;/code&gt; wrote by &lt;a href=&#34;http://stereoarts.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stereoarts&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This plugin has been applied in the producation of dancing videos in &lt;a href=&#34;https://www.bilibili.com/video/BV1pd4y1R7AK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SiTuXiaoTao Series&lt;/a&gt; and &lt;a href=&#34;https://www.bilibili.com/video/BV1ys4y1B76v&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BaiMianMian Series&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bug-fix and add support for Japanese or Chinese support.&lt;/li&gt;
+&lt;li&gt;Develop a universal version for Maya 2018+ (Python 2.x) and Maya 2022+ (Python 3.x)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

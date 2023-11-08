@@ -21,7 +21,7 @@
 &lt;p&gt;In our live room, you play a cute vegitable and join a great party hold in a refridgerator.&lt;/p&gt;
 &lt;p&gt;by texting in our live room or sending us gifts during the live procedure.&lt;/p&gt;
 &lt;p&gt;In essence, each person can has a virtual dancing. So come join us now and revel in this unparalleled gaming experience filled with surprises and joy!&lt;/p&gt;
-&lt;p&gt;My contributions to this project are:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Assemble assets in Unreal Engine and develop game logic for interaction.&lt;/li&gt;
 &lt;li&gt;Develop &lt;code&gt;ElseLiveUnreal&lt;/code&gt; plugin for Unreal Engine to fetch live room behaviors via APIs, and interact with the audience accordingly.&lt;/li&gt;

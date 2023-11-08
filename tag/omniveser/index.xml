@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Omniveser | SIHANG CHEN</title>
+    <link>https://sihangchen97.github.io/tag/omniveser/</link>
+      <atom:link href="https://sihangchen97.github.io/tag/omniveser/index.xml" rel="self" type="application/rss+xml" />
+    <description>Omniveser</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sihangchen97.github.io/media/icon_hue2cd89a902ac05e014cd1fa8aa0baef4_4666_512x512_fill_lanczos_center_3.png</url>
+      <title>Omniveser</title>
+      <link>https://sihangchen97.github.io/tag/omniveser/</link>
+    </image>
+    
+    <item>
+      <title>Omniverse A2F LiveLink</title>
+      <link>https://sihangchen97.github.io/project/ov_a2f_livelink/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/ov_a2f_livelink/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Omniverse A2F LiveLink&lt;/strong&gt; is an Omniverse plugin that can help you quickly build up a real-time Audio2Face pipeline in Unreal Engine, embedding Omniverse Audio2Face.&lt;/p&gt;
+&lt;p&gt;This plugin provides a “Send Blendshape Value” node in Omniverse Audio2Face and sends generated facial animation data to  Unreal Engine via LiveLink protocol, which is widely used for facial capture data transfer to Unreal Engine.&lt;/p&gt;
+&lt;p&gt;With the help of &lt;strong&gt;Omniverse A2F LiveLink&lt;/strong&gt;, it would be easy to drive your characters to speak, powered by the latest Omniverse Audio2Face Technology.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My contributions to this project are:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plugin development and testing.&lt;/li&gt;
+&lt;li&gt;USD asset preparation (for Omniverse).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
