@@ -58,6 +58,26 @@
     </item>
     
     <item>
+      <title>FFmpegWebcamUnreal</title>
+      <link>https://sihangchen97.github.io/project/ffmpegwebcamunreal/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/ffmpegwebcamunreal/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;FFmpegWebcamUnreal&lt;/strong&gt; is a Webcam Plugin based on FFmpeg for Unreal Engine.&lt;/p&gt;
+&lt;p&gt;The&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FFmpegWebcamUnreal</title>
+      <link>https://sihangchen97.github.io/project/sensemocapunreal/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://sihangchen97.github.io/project/sensemocapunreal/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;FFmpegWebcamUnreal&lt;/strong&gt; is a Webcam Plugin based on FFmpeg for Unreal Engine.&lt;/p&gt;
+&lt;p&gt;The&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>LIVE - Fridge Party!</title>
       <link>https://sihangchen97.github.io/project/live_fridge_party/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
@@ -84,16 +104,6 @@
       <description>&lt;p&gt;&lt;strong&gt;STMobileUnreal&lt;/strong&gt; is a powerful plugin for developers working with Unreal Engine. This plugin enables users to call upon the capabilities of Sensetime STMobile library within Unreal Engine, allowing them to capture facial expressions and use these as drivers for character face animations. The STMobile library itself is designed specifically for digital avatars applications, providing efficient detection of faces and capturing their corresponding facial expression animations.&lt;/p&gt;
 &lt;p&gt;When used with &lt;strong&gt;FFmpegWebcamUnreal&lt;/strong&gt;, this plugin can unlock a real-time webcam-based facial tracking solution directly within Unreal Engine. In other words, it allows you to seamlessly integrate live video feed from your webcam into your game or application, enabling advanced features such as avatar customization based on user’s own facial expressions.&lt;/p&gt;
 &lt;p&gt;In summary, if you are looking to incorporate robust facial capture technology into your Unreal Engine projects, then look no further than &lt;strong&gt;STMobileUnreal&lt;/strong&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>FFmpegWebcamUnreal</title>
-      <link>https://sihangchen97.github.io/project/ffmpegwebcamunreal/</link>
-      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://sihangchen97.github.io/project/ffmpegwebcamunreal/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;FFmpegWebcamUnreal&lt;/strong&gt; is a Webcam Plugin based on FFmpeg for Unreal Engine.&lt;/p&gt;
-&lt;p&gt;This plugin could serve as fundamental component to support further development related to webcam, such as &lt;a href=&#34;../stmobileunreal&#34;&gt;STMobileUnreal&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
